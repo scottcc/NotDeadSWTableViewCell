@@ -41,7 +41,7 @@
 			containerPortal = AF34B75D17DEE2AE00BD9082 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = AF34B76417DEE2B100BD9082;
-			remoteInfo = SWTableViewCell;
+			remoteInfo = NotDeadSWTableViewCell;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -204,7 +204,7 @@
 				810308A3184D688D00C378F0 /* UMTableViewCell.h */,
 				810308A4184D688D00C378F0 /* UMTableViewCell.m */,
 			);
-			path = SWTableViewCell;
+			path = NotDeadSWTableViewCell;
 			sourceTree = "<group>";
 		};
 		AF34B76F17DEE2B300BD9082 /* Supporting Files */ = {
@@ -261,8 +261,8 @@
 			);
 			dependencies = (
 			);
-			name = SWTableViewCell;
-			productName = SWTableViewCell;
+			name = NotDeadSWTableViewCell;
+			productName = NotDeadSWTableViewCell;
 			productReference = AF34B76517DEE2B200BD9082 /* SWTableViewCell.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -553,8 +553,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SWTableViewCell/SWTableViewCell-Prefix.pch";
-				INFOPLIST_FILE = "SWTableViewCell/SWTableViewCell-Info.plist";
+				GCC_PREFIX_HEADER = "NotDeadSWTableViewCell/SWTableViewCell-Prefix.pch";
+				INFOPLIST_FILE = "NotDeadSWTableViewCell/SWTableViewCell-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
@@ -568,8 +568,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "SWTableViewCell/SWTableViewCell-Prefix.pch";
-				INFOPLIST_FILE = "SWTableViewCell/SWTableViewCell-Info.plist";
+				GCC_PREFIX_HEADER = "NotDeadSWTableViewCell/SWTableViewCell-Prefix.pch";
+				INFOPLIST_FILE = "NotDeadSWTableViewCell/SWTableViewCell-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
