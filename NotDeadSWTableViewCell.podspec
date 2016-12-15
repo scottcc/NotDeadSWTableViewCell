@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'NotDeadSWTableViewCell'
-  s.version  = '0.3.8'
+  s.version  = '0.3.9'
   s.author   = { 'Chris Wendel' => 'chriwend@umich.edu' }
   s.homepage = 'https://github.com/scottcc/NotDeadSWTableViewCell'
   s.summary  = 'Non-abandoned UITableViewCell subclass that implements a swipeable content view which exposes utility buttons. But do not use.'
